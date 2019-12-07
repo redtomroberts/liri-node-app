@@ -1,0 +1,166 @@
+
+Command 'concert-this' for 'Green Day' returns...
+--------------------
+
+Artist: Green Day 
+Venue: IMPACT Arena
+Venue Location: 13.75,100.5166667
+Venue City: Bangkok, 
+--------------------
+
+Command 'concert-this' for 'Green Day' returns...
+--------------------
+
+Artist: Green Day 
+Venue: IMPACT Arena
+Venue Location: 13.75,100.5166667
+Venue City: Bangkok, 
+--------------------
+
+Command 'spotify-this' for 'The Sign Ace of Base' returns...
+--------------------
+
+Artist: Ace of Base 
+Song: The Sign
+Album: The Sign (US Album) [Remastered]
+Spotify link: https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE
+
+--------------------
+
+Command 'spotify-this' for 'The Sign Ace of Base' returns...
+--------------------
+
+Artist: Ace of Base 
+Song: All That She Wants
+Album: The Sign (US Album) [Remastered]
+Spotify link: https://open.spotify.com/track/6kWJvPfC4DgUpRsXKNa9z9
+
+--------------------
+
+Command 'spotify-this' for 'The Sign Ace of Base' returns...
+--------------------
+
+Artist: Ace of Base 
+Song: Don't Turn Around
+Album: The Sign (US Album) [Remastered]
+Spotify link: https://open.spotify.com/track/4SYMibQ93bfzOk6uzkF0dO
+
+--------------------
+
+Command 'spotify-this' for 'The Sign Ace of Base' returns...
+--------------------
+
+Artist: Ace of Base 
+Song: The Sign
+Album: Greatest Hits
+Spotify link: https://open.spotify.com/track/3DYVWvPh3kGwPasp7yjahc
+
+--------------------
+
+Command 'spotify-this' for 'Lump' returns...
+--------------------
+
+Artist: The Presidents Of The United States Of America 
+Song: Lump
+Album: The Presidents of The United States of America: Ten Year Super Bonus Special Anniversary Edition
+Spotify link: https://open.spotify.com/track/2JdzB67NvIa90K4gEZPLeX
+
+--------------------
+
+Command 'spotify-this' for 'Lump' returns...
+--------------------
+
+Artist: Bon Iver 
+Song: Lump Sum
+Album: For Emma, Forever Ago
+Spotify link: https://open.spotify.com/track/0kz4nEVFUNcYXLgzOKQnWh
+
+--------------------
+
+Command 'spotify-this' for 'Lump' returns...
+--------------------
+
+Artist: Hollywood Undead 
+Song: Lump Your Head
+Album: American Tragedy (Deluxe Edition)
+Spotify link: https://open.spotify.com/track/6BviWFNhhuI35SxQA7pMDT
+
+--------------------
+
+Command 'spotify-this' for 'Lump' returns...
+--------------------
+
+Artist: The Presidents Of The United States Of America 
+Song: Lump
+Album: The Presidents of The United States of America: Ten Year Super Bonus Special Anniversary Edition
+Spotify link: https://open.spotify.com/track/0BkfgzhxeFtLBbmTjbPJ97
+
+--------------------
+
+Command 'movie-this' for 'Mr. Nobody' returns...
+--------------------
+
+Title: Mr. Nobody
+Cast: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+Released: 2009
+IMDb Rating: 7.8
+Rotten Tomatoes Rating: 67%
+Country: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+
+--------------------
+
+Command 'movie-this' for '300' returns...
+--------------------
+
+Title: 300
+Cast: Gerard Butler, Lena Headey, Dominic West, David Wenham
+Released: 2006
+IMDb Rating: 7.7
+Rotten Tomatoes Rating: 60%
+Country: USA, Canada, Bulgaria
+Language: English
+Plot: King Leonidas of Sparta and a force of 300 men fight the Persians at Thermopylae in 480 B.C.
+
+--------------------
+
+Command 'spotify-this' for ' "Now You've Got Something to Die For"' returns...
+--------------------
+
+Artist: Lamb of God 
+Song: Now You've Got Something to Die For
+Album: Ashes of the Wake (15th Anniversary)
+Spotify link: https://open.spotify.com/track/4YthwCt7NMqxQCQfJPZMnU
+
+--------------------
+
+Command 'spotify-this' for ' "Now You've Got Something to Die For"' returns...
+--------------------
+
+Artist: Lamb of God 
+Song: Now You've Got Something to Die For - Live Album Version
+Album: Killadelphia
+Spotify link: https://open.spotify.com/track/41fSiYyZRisC9mR6e43OLb
+
+--------------------
+
+Command 'spotify-this' for ' "Now You've Got Something to Die For"' returns...
+--------------------
+
+Artist: Lamb of God 
+Song: Now You've Got Something to Die For
+Album: Hourglass - Volume II - The Epic Years
+Spotify link: https://open.spotify.com/track/6OAuhQcJLbdpFHHW9FXmsA
+
+--------------------
+
+Command 'spotify-this' for ' "Now You've Got Something to Die For"' returns...
+--------------------
+
+Artist: Various Artists 
+Song: Now You've Got Something to Die For
+Album: Rock N' Shock
+Spotify link: https://open.spotify.com/track/4msrG85DNWMDESZwwrumHa
+
+--------------------
