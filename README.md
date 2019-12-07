@@ -36,7 +36,7 @@ Search Bot for Spotify, Bands in Town & OMDB
 
 * Contain a link to a deployed version of the app.
 
-  
+  https://github.com/redtomroberts/liri-node-app.git
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
