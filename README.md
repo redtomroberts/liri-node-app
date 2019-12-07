@@ -21,9 +21,9 @@ Search Bot for Spotify, Bands in Town & OMDB
 
   In GitBash, type 'node liri.js' and any of the following commands...
   
-    - concert-this <band or artist of your choice>
-    - spotify-this <song of your choice>
-    - movie-this <film name of your choice>
+    - concert-this (band or artist of your choice)
+    - spotify-this (song of your choice)
+    - movie-this (film name of your choice)
     - do-what-it-says (returns default embedded in random.txt file)
 
 ----------------------------------------------------------------------------------------------------------------------------------------
